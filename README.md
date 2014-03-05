@@ -1,6 +1,6 @@
 # TestServer #
 
-## Build & Run ##
+## - Build & Run - ##
 
 ```sh
 $ cd TestServer
