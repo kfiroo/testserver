@@ -1,4 +1,4 @@
-# - TestServer - #
+# TestServer #
 
 ## - Build & Run - ##
 
